@@ -27,7 +27,7 @@ The command validates the included example and writes a normalized CSV file. The
 src/aigc_animation_toolkit/  reusable package code
 templates/                    blank coding schema
 examples/                     small, synthetic example data
-docs/                         methodology and coding guidance
+ docs/                         methodology, evidence, and coding guidance
 tests/                        automated tests
 ```
 
