@@ -39,6 +39,8 @@ This project is intended for scholarly documentation and qualitative/visual anal
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md). Small, focused pull requests are welcome, especially improvements to validation, documentation, and reproducible research workflows.
 
+See [CHANGELOG.md](CHANGELOG.md) and the [development log](docs/development-log.md) for the project's verifiable maintenance history.
+
 ## License
 
 Released under the [MIT License](LICENSE).
